@@ -7,7 +7,7 @@
 - ✔️ Validating the model
 - 🚀 Creating the UI to make the model available for use
 
-The aim of this project is to develop an AI model that informs the probable cholesterol level of a patient, based on information such as weight, height, age and smoking habits, present in the dataset provided. 🎓📈
+The aim of this project is to develop an AI model that informs the probable cholesterol level of a patient, based on information such as weight, height, age and smoking habits, present in the dataset provided. 🩺🔍
 
 ## Prerequisites
 - [Python 3.11.7](https://www.python.org/downloads/release/python-3117/)
