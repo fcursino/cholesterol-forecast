@@ -32,4 +32,4 @@ The aim of this project is to develop an AI model that informs the probable chol
    ![IMG](https://github.com/fcursino/cholesterol-forecast/blob/main/instruction.png)
 5. Access your 'localhost:7861' page on browser:
    
-   ![GIF](https://github.com/fcursino/study-simple-linear-regression/blob/main/test.gif)
+   ![GIF](https://github.com/fcursino/cholesterol-forecast/blob/main/test.gif)
