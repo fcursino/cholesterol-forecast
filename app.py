@@ -33,4 +33,4 @@ demo = gr.Interface(
   outputs=['number']
 )
 
-demo.launch(server_port=port)
+demo.launch(server_name="0.0.0.0", server_port=port)
