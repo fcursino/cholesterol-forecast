@@ -1,7 +1,9 @@
 import gradio as gr
 import joblib
 import pandas as pd
+import os
 
+port = int(os.environ.get('PORT', 10000))
 modelo = joblib.load('./modelo_colesterol.pkl')
 
 def predict(grupo_sanguineo, fumante, nivel_atividade_fisica, idade, peso, altura):
@@ -31,4 +33,4 @@ demo = gr.Interface(
   outputs=['number']
 )
 
-demo.launch()
+demo.launch(server_port=port)
